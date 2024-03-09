@@ -1,6 +1,6 @@
 # aplikasidigitalmoney
 
-A new Flutter project.
+Flutter Project byfabimafadzillah.
 
 ## Getting Started
 
